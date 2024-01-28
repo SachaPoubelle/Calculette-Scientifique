@@ -1,4 +1,4 @@
 # Calculette-Scientifique
 
 --------------------------
-  CAlculette scientifique
+  Calculette scientifique
